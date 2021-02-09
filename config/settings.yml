@@ -1,0 +1,7 @@
+plugins:
+  email_notifications_site_abbreviation:
+    default: ''
+    client: true
+  email_notifications_support_email:
+    default: ''
+    client: true
